@@ -110,32 +110,17 @@ Viewer::Viewer()
             <<qMakePair(0,1)
             <<qMakePair(1,2)
             <<qMakePair(2,3)
-            <<qMakePair(2,4)
+            <<qMakePair(3,4)
             //<<qMakePair(4,1)
             //<<qMakePair(4,0)
               ;
 
     m_wirecreator.readData(vert,edges);
-    //qDebug()<<"deadends:";
-    //qDebug()<<m_wirecreator.deadEnds;
-    m_wirecreator.calcPathes();
-    //qDebug()<<"allPathes"<<m_wirecreator.allPathes;
-    //m_wirecreator.createLine();
-    //qDebug()<<"tracing back deadend";
-    //qDebug()<<m_wirecreator.traceBackDE(3);
-    //m_wirecreator.checkPath();
-    //qDebug()<<m_wirecreator.cPath;
-    qDebug()<<"before input";
-    m_wire.read_Input(m_wirecreator.cPath);
-    //m_wire.boundingBox.push_back(qMakePair(QVector3D(0.4f, -4.5f, 6.0f),QVector3D(7.0f, 0.1f, -6.0f)));
-    //qDebug()<<m_wire.innerPoints;
-    //QPushButton button =new QPushButton("test");
 
-  /*  for (auto it = m_path.begin(); it+1 != m_path.end(); ++it)
-    {
-        m_pathLength += QVector3D(*(it+1) - *it).length();
-    }*/
-    qDebug()<<"finished constructor";
+    m_wirecreator.calcPathes();
+
+    m_wire.read_Input(m_wirecreator.cPath);
+
 }
 
 Viewer::~Viewer()

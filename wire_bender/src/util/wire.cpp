@@ -15,7 +15,7 @@ wire::wire(QObject *parent):
     translation.setToIdentity();
     bending.setToIdentity();
     outerPoints.clear();
-    //boundingBox.push_back(qMakePair(QVector3D(0.4f, -4.5f, 6.0f),QVector3D(7.0f, 0.1f, -6.0f)));
+    boundingBox.push_back(qMakePair(QVector3D(0.4f, -4.5f, 6.0f),QVector3D(7.0f, 0.1f, -6.0f)));
     /*boundingBox.push_back(qMakePair(QVector3D(0.0f, 1.0f, 0.0f),QVector3D(1.0f, 2.0f, 1.0f)));
     boundingBox.push_back(qMakePair(QVector3D(0.0f, 1.0f, 0.0f),QVector3D(2.0f, 3.0f, 2.0f)));
     boundingBox.push_back(qMakePair(QVector3D(0.0f, 1.0f, 0.0f),QVector3D(3.0f, 4.0f, 3.0f)));
