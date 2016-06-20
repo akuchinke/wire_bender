@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\objio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\polygonaldrawable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\abstractexercise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\abstractpainter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\fileassociatedasset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\fileassociatedshader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\glviewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\icosahedron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\unitcube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\build\util_automoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\objio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\polygonaldrawable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\abstractexercise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\abstractpainter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\cachedvalue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\cachedvalue.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\fileassociatedasset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\fileassociatedshader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\glviewer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\icosahedron.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\openglfunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\paintermode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\src\util\unitcube.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D44B0143-163D-49C2-A12E-B4E930E31513}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{393C7D43-085E-471C-9878-8BAB5D2E2954}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

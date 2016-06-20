@@ -1,0 +1,16 @@
+﻿Der Buildvorgang wurde am 07.12.2015 12:34:18 gestartet.
+     1>Projekt "C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\build\ZERO_CHECK.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>CustomBuild:
+         Checking Build System
+         CMake is re-running because C:/Users/Adrian/Documents/Uni/CG1/ubeung4/programmrahmen/build/CMakeFiles/generate.stamp is out-of-date.
+           the file 'C:/Program_Files/QT/5.4/msvc2013_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake'
+           is newer than 'C:/Users/Adrian/Documents/Uni/CG1/ubeung4/programmrahmen/build/CMakeFiles/generate.stamp.depend'
+           result='0'
+         -- Configuring done
+         -- Generating done
+         -- Build files have been written to: C:/Users/Adrian/Documents/Uni/CG1/ubeung4/programmrahmen/build
+     1>Die Erstellung des Projekts "C:\Users\Adrian\Documents\Uni\CG1\ubeung4\programmrahmen\build\ZERO_CHECK.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:01.95
