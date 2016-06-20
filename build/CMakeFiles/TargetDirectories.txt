@@ -1,7 +1,0 @@
-C:/Users/Adrian/Documents/Uni/CG1/ubeung4/programmrahmen/build/CMakeFiles/util.dir
-C:/Users/Adrian/Documents/Uni/CG1/ubeung4/programmrahmen/build/CMakeFiles/CG1Exercise41.dir
-C:/Users/Adrian/Documents/Uni/CG1/ubeung4/programmrahmen/build/CMakeFiles/CG1Exercise42.dir
-C:/Users/Adrian/Documents/Uni/CG1/ubeung4/programmrahmen/build/CMakeFiles/CG1Exercise43.dir
-C:/Users/Adrian/Documents/Uni/CG1/ubeung4/programmrahmen/build/CMakeFiles/CG1Exercise44.dir
-C:/Users/Adrian/Documents/Uni/CG1/ubeung4/programmrahmen/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Adrian/Documents/Uni/CG1/ubeung4/programmrahmen/build/CMakeFiles/ZERO_CHECK.dir
