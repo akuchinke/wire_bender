@@ -22,7 +22,6 @@ SOURCES +=\
     src/util/icosahedron.cpp \
     src/util/objio.cpp \
     src/util/polygonaldrawable.cpp \
-    src/util/unitcube.cpp \
     src/util/wire.cpp \
     src/util/wirecreator.cpp \
     src/viewer.cpp
@@ -44,7 +43,6 @@ HEADERS  += \
     src/util/openglfunctions.h \
     src/util/paintermode.h \
     src/util/polygonaldrawable.h \
-    src/util/unitcube.h \
     src/util/wire.h \
     src/util/wirecreator.h
 
